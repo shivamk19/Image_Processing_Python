@@ -1,7 +1,7 @@
 from PIL import Image, ImageDraw
 
 # Load image:
-input_image = Image.open("download.jpg")
+input_image = Image.open("lena.jpg")
 input_pixels = input_image.load()
 
 # High-pass kernel
