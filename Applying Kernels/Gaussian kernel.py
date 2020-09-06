@@ -1,7 +1,7 @@
 from PIL import Image, ImageDraw
 
 # Load image:
-input_image = Image.open("filename")
+input_image = Image.open("lena.png")
 input_pixels = input_image.load()
 
 # Gaussian kernel
