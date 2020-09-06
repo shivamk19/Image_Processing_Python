@@ -1,6 +1,6 @@
 from PIL import Image
 import math
-path = "download.jpg" # Your image path 
+path = "rubix.jpg" # Your image path 
 img = Image.open(path)
 width, height = img.size
 newimg = Image.new("RGB", (width, height), "white")
