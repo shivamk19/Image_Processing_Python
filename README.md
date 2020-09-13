@@ -14,11 +14,11 @@ Blurring the image with 5x5 kernels. Box-Blur and Gaussian Blur Kernels are used
 
  Original image  | Box Blur  | Gaussian Blur |  Sharpened Image
 :-----:|:-----:|:-----:|:-----:
-<img width="240" height="300" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Applying%20Kernels/lena.png">|<img width="240" height="300" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Applying%20Kernels/output_box.png">|<img width="240" height="300" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Applying%20Kernels/output_gaussian.png">|<img width="640" height="450" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Applying%20Kernels/output_sharpening.png">    
+<img width="600" height="400" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Applying%20Kernels/lena.png">|<img width="600" height="400" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Applying%20Kernels/output_box.png">|<img width="600" height="400" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Applying%20Kernels/output_gaussian.png">|<img width="600" height="400" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Applying%20Kernels/output_sharpening.png">    
 
  Original image  | Box Blur  | Gaussian Blur |  Sharpened Image
 :-----:|:-----:|:-----:|:-----:
-<img width="240" height="300" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Applying%20Kernels/structure.jpeg">|<img width="240" height="300" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Applying%20Kernels/output_box%20(1).png">|<img width="240" height="300" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Applying%20Kernels/output_gaussian%20(1).png">|<img width="640" height="450" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Applying%20Kernels/output_sharpening%20(1).png">
+<img width="600" height="400" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Applying%20Kernels/structure.jpeg">|<img width="600" height="400" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Applying%20Kernels/output_box%20(1).png">|<img width="600" height="400" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Applying%20Kernels/output_gaussian%20(1).png">|<img width="600" height="400" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Applying%20Kernels/output_sharpening%20(1).png">
 
 ## Task 3 - Edge Detection :
 
