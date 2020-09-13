@@ -36,7 +36,7 @@ Recognition of Images and Modifying Images using Python.
   ## Task 4  
   Original Image                     |  Erosion                |  Dilation
 :-------------------------:|:-------------------------:|:-------------------------:
-<img width="320" height="220" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Morphological%20Transformation/erosion%20dilation.py">|<img width="320" height="220" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Morphological%20Transformation/Erosion.png">|<img width="320" height="220" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Morphological%20Transformation/Dilation.jpg">
+<img width="320" height="220" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Morphological%20Transformation/morphological.png">|<img width="320" height="220" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Morphological%20Transformation/Erosion.png">|<img width="320" height="220" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Morphological%20Transformation/Dilation.jpg">
   
   ## Task 5
  Input Image                      |  Blue Ball Detected
