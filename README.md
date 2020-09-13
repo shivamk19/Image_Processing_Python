@@ -5,7 +5,6 @@ Recognition of Images and Modifying Images using Python.
 
 
 ### Rotation Matrix:
-![Rotation Matrix](https://legacy.voteview.com/images/homework_1_1_18_2011.jpg)
 Original image                     |  Result After Rotation(90 degrees)
 :-------------------------:|:-------------------------:
 <img width="640" height="450" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/ImageRotation/rotate.png">|<img width="640" height="450" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/ImageRotation/rotated%2090.png">
