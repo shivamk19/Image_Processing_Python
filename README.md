@@ -41,7 +41,7 @@ Recognition of Images and Modifying Images using Python.
   ## Task 5
  Input Image                      |  Blue Ball Detected
 :-------------------------:|:-------------------------:
-<img width="540" height="400" src="https://github.com/atharva1608/sra_ip_practice/blob/master/masking/mask.jpg">|<img width="540" height="400" src="https://github.com/atharva1608/sra_ip_practice/blob/master/masking/masking_output.png">
+<img width="540" height="400" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Masking/mask.jpg">|<img width="540" height="400" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Masking/Masked%20Image.jpg">
  
  ## Task 6
  Figure 1                      |  Figure 2
