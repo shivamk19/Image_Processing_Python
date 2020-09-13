@@ -11,9 +11,9 @@ Recognition of Images and Modifying Images using Python.
   
   * [Task 4](#task-4)
   
-  * [Task 5](#task-5) 
+  * [Task 5](#Task 5) 
   
-  * [Task 6](#task-6) 
+  * [Task 6](#Task 6) 
 
 ## Task 1 :
 
