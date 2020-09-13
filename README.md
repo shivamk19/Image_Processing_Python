@@ -12,24 +12,13 @@ Original image                     |  Result After Rotation(90 degrees)
 ### Blurring An Image
 Blurring the image with 5x5 kernels. Box-Blur and Gaussian Blur Kernels are used.   
 
- Original image  | Box Blur  | Gaussian Blur 
+ Original image  | Box Blur  | Gaussian Blur |  Sharpened Image
 :-----:|:-----:|:-----:
-<img width="240" height="300" src="https://github.com/chaitravi-ce/SRA-Tasks/blob/master/Task-2%20Applying%20Kernels/blur.jpeg">|<img width="240" height="300" src="https://github.com/chaitravi-ce/SRA-Tasks/blob/master/Task-2%20Applying%20Kernels/Box-Blur%20Parliament.jpg">|<img width="240" height="300" src="https://github.com/chaitravi-ce/SRA-Tasks/blob/master/Task-2%20Applying%20Kernels/Gaussian-Blur%20Parliament.jpg">    
+<img width="240" height="300" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Applying%20Kernels/lena.png">|<img width="240" height="300" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Applying%20Kernels/output_box.png">|<img width="240" height="300" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Applying%20Kernels/output_gaussian.png">|<img width="640" height="450" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Applying%20Kernels/output_sharpening.png">    
 
- Original image  | Box Blur  | Gaussian Blur 
+ Original image  | Box Blur  | Gaussian Blur |  Sharpened Image
 :-----:|:-----:|:-----:
-<img width="240" height="300" src="https://github.com/chaitravi-ce/SRA-Tasks/blob/master/Task-2%20Applying%20Kernels/filter.png">|<img width="240" height="300" src="https://github.com/chaitravi-ce/SRA-Tasks/blob/master/Task-2%20Applying%20Kernels/Box-Blur%20Lena.jpg">|<img width="240" height="300" src="https://github.com/chaitravi-ce/SRA-Tasks/blob/master/Task-2%20Applying%20Kernels/Gaussian-Blur%20Lena.jpg"> 
-
-
- ### Sharpening Image
- Sharpening the image with 5x5 kernel.
- Original Image                     |  Sharpened Image
-:-------------------------:|:-------------------------:
-<img width="640" height="450" src="https://github.com/chaitravi-ce/SRA-Tasks/blob/master/Task-2%20Applying%20Kernels/filter.png">|<img width="640" height="450" src="https://github.com/chaitravi-ce/SRA-Tasks/blob/master/Task-2%20Applying%20Kernels/Sharp%20Lena.jpg">
-
- Original Image                     |  Sharpened Image
-:-------------------------:|:-------------------------:
-<img width="640" height="450" src="https://github.com/chaitravi-ce/SRA-Tasks/blob/master/Task-2%20Applying%20Kernels/blur.jpeg">|<img width="640" height="450" src="https://github.com/chaitravi-ce/SRA-Tasks/blob/master/Task-2%20Applying%20Kernels/Sharp%20Parliament.jpg">
+<img width="240" height="300" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Applying%20Kernels/structure.jpeg">|<img width="240" height="300" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Applying%20Kernels/output_box%20(1).png">|<img width="240" height="300" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Applying%20Kernels/output_gaussian%20(1).png">|<img width="640" height="450" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Applying%20Kernels/output_sharpening%20(1).png">
 
 ## Task 3 - Edge Detection :
 
