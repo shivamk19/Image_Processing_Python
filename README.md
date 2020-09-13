@@ -23,17 +23,15 @@ Blurring the image with 5x5 kernels. Box-Blur and Gaussian Blur Kernels are used
 ## Task 3 - Edge Detection :
 
 Edge Detection done using 3x3 kernels.
- Original Image  | Vertical Edge Detection  | Horizontal Edge Detection
-:-----:|:-----:|:-----:
-<img width="340" height="340" src="https://github.com/chaitravi-ce/SRA-Tasks/blob/master/Task-3%20Edge%20Detection/edge-detection.png">|<img width="340" height="340" src="https://github.com/chaitravi-ce/SRA-Tasks/blob/master/Task-3%20Edge%20Detection/Vertical%20Edge%20Detection-Dog.jpg">|<img width="340" height="340" src="https://github.com/chaitravi-ce/SRA-Tasks/blob/master/Task-3%20Edge%20Detection/Horizontal%20Edge%20Detection-Dog.jpg">
-  **Sobel Edge Detection**  | **Canny Edge Detection**
-<img width="340" height="340" src="https://github.com/chaitravi-ce/SRA-Tasks/blob/master/Task-3%20Edge%20Detection/Sobel%20Edge%20Detection-Dog.jpg">|<img width="340" height="340" src="https://github.com/chaitravi-ce/SRA-Tasks/blob/master/Task-3%20Edge%20Detection/Canny%20Edge%20Detection-Dog.jpg">
+ Original Image  | Vertical Edge Detection  | Horizontal Edge Detection | Sobel Edge Detection  | Canny Edge Detection
+:-----:|:-----:|:-----:|:-----:|:-----:
+<img width="340" height="340" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Edge%20detection/dog.png">|<img width="340" height="340" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Edge%20detection/Vertical%20Edge%20Detection-Dog.jpg">|<img width="340" height="340" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Edge%20detection/Horizontal%20Edge%20Detection-Dog.jpg">|<img width="340" height="" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Edge%20detection/Sobel%20Edge%20Detection-Dog.jpg">|<img width="340" height="340" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Edge%20detection/Canny%20Edge%20Detection-Dog.jpg">
 
- Original Image  | Vertical Edge Detection  | Horizontal Edge Detection
-:-----:|:-----:|:-----:
-<img width="340" height="340" src="https://github.com/chaitravi-ce/SRA-Tasks/blob/master/Task-3%20Edge%20Detection/edge-detection2.jpg">|<img width="340" height="340" src="https://github.com/chaitravi-ce/SRA-Tasks/blob/master/Task-3%20Edge%20Detection/Vertical%20Edge%20Detection-Cube.jpg">|<img width="340" height="340" src="https://github.com/chaitravi-ce/SRA-Tasks/blob/master/Task-3%20Edge%20Detection/Horizontal%20Edge%20Detection-Cube.jpg">
-  **Sobel Edge Detection**  | **Canny Edge Detection**
-<img width="340" height="340" src="https://github.com/chaitravi-ce/SRA-Tasks/blob/master/Task-3%20Edge%20Detection/Canny%20Edge%20Detection-Cube.jpg">|<img width="340" height="340" src="https://github.com/chaitravi-ce/SRA-Tasks/blob/master/Task-3%20Edge%20Detection/Sobel%20Edge%20Detection-Cube.jpg">
+ 
+ Original Image  | Vertical Edge Detection  | Horizontal Edge Detection | Sobel Edge Detection  | Canny Edge Detection
+:-----:|:-----:|:-----:|:-----:|:-----:
+<img width="340" height="340" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Edge%20detection/rubix.jpg">|<img width="340" height="340" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Edge%20detection/Vertical%20Edge%20Detection-Cube.jpg">|<img width="340" height="340" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Edge%20detection/Horizontal%20Edge%20Detection-Cube.jpg">|
+<img width="340" height="340" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Edge%20detection/Sobel%20Edge%20Detection-Cube.jpg">|<img width="340" height="340" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Edge%20detection/Canny%20Edge%20Detection-Cube.jpg">
   
   ## Task 4  
   Original Image                     |  Erosion                |  Dilation
