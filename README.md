@@ -1,13 +1,27 @@
 # Image_Processing_Python
 Recognition of Images and Modifying Images using Python.
 
-## Task 1- Image Rotation :
+## Tables of Contents:
+
+  * [Task 1](#task-1)
+  
+  * [Task 2](#task-2)
+  
+  * [Task 3](#task-3) 
+  
+  * [Task 4](#task-4)
+  
+  * [Task 5](#task-5) 
+  
+  * [Task 6](#task-6) 
+
+## Task 1 :
 
 Original image                     |  Result After Rotation(90 degrees)
 :-------------------------:|:-------------------------:
 <img width="640" height="450" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/ImageRotation/rotate.png">|<img width="640" height="450" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/ImageRotation/rotated%2090.png">
    
-## Task 2 - Applying Kernels :
+## Task 2 :
 
 ### Blurring An Image
 Blurring the image with 5x5 kernels. Box-Blur and Gaussian Blur Kernels are used.   
@@ -20,7 +34,7 @@ Blurring the image with 5x5 kernels. Box-Blur and Gaussian Blur Kernels are used
 :-----:|:-----:|:-----:|:-----:
 <img width="600" height="400" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Applying%20Kernels/structure.jpeg">|<img width="600" height="400" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Applying%20Kernels/output_box%20(1).png">|<img width="600" height="400" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Applying%20Kernels/output_gaussian%20(1).png">|<img width="600" height="400" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Applying%20Kernels/output_sharpening%20(1).png">
 
-## Task 3 - Edge Detection :
+## Task 3 :
 
 Edge Detection done using 3x3 kernels.
  Original Image  | Vertical Edge Detection  | Horizontal Edge Detection | Sobel Edge Detection  | Canny Edge Detection
