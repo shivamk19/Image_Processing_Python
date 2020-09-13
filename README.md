@@ -46,21 +46,21 @@ Edge Detection done using 3x3 kernels.
 :-----:|:-----:|:-----:|:-----:|:-----:
 <img width="340" height="340" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Edge%20detection/rubix.jpg">|<img width="340" height="340" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Edge%20detection/Vertical%20Edge%20Detection-Cube.jpg">|<img width="340" height="340" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Edge%20detection/Horizontal%20Edge%20Detection-Cube.jpg">|<img width="340" height="340" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Edge%20detection/Sobel%20Edge%20Detection-Cube.jpg">|<img width="340" height="340" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Edge%20detection/Canny%20Edge%20Detection-Cube.jpg">
   
-  ## Task 4  
+  ## Task 4 :
   
   
   Original Image                     |  Erosion                |  Dilation
 :-------------------------:|:-------------------------:|:-------------------------:
 <img width="320" height="220" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Morphological%20Transformation/morphological.png">|<img width="320" height="220" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Morphological%20Transformation/Erosion.png">|<img width="320" height="220" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Morphological%20Transformation/Dilation.jpg">
   
-  ## Task 5
+  ## Task 5 :
   
   Detecting the Blue Ball
  Input Image                      |  Blue Ball Detected
 :-------------------------:|:-------------------------:
 <img width="540" height="400" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Masking/mask.jpg">|<img width="540" height="400" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Masking/Masked%20Image.jpg">
  
- ## Task 6
+ ## Task 6 :
  
  ROI (Region of interest) is obtained by Numpy indexing
  Figure 1                      |  Figure 2
