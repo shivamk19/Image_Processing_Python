@@ -34,9 +34,9 @@ Recognition of Images and Modifying Images using Python.
   4. Canny Edge Detection: It basically consists of five steps- 1) Noise Reduction 2)Gradient Calculation 3)Non-maximum suppression 4)Double Threshold 5)Edge   Tracking Hysteresis
   
   ## Task 4  
-  Input Image                      |  Erosion                |  Dilation
+  Original Image                     |  Erosion                |  Dilation
 :-------------------------:|:-------------------------:|:-------------------------:
-<img width="320" height="220" src="https://github.com/atharva1608/sra_ip_practice/blob/master/Morphological_Transformation/morphological.png">|<img width="320" height="220" src="https://github.com/atharva1608/sra_ip_practice/blob/master/Morphological_Transformation/erosion.png">|<img width="320" height="220" src="https://github.com/atharva1608/sra_ip_practice/blob/master/Morphological_Transformation/dilation.png">
+<img width="320" height="220" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Morphological%20Transformation/erosion%20dilation.py">|<img width="320" height="220" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Morphological%20Transformation/Erosion.png">|<img width="320" height="220" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Morphological%20Transformation/Dilation.jpg">
   
   ## Task 5
  Input Image                      |  Blue Ball Detected
