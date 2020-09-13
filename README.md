@@ -30,8 +30,7 @@ Edge Detection done using 3x3 kernels.
  
  Original Image  | Vertical Edge Detection  | Horizontal Edge Detection | Sobel Edge Detection  | Canny Edge Detection
 :-----:|:-----:|:-----:|:-----:|:-----:
-<img width="340" height="340" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Edge%20detection/rubix.jpg">|<img width="340" height="340" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Edge%20detection/Vertical%20Edge%20Detection-Cube.jpg">|<img width="340" height="340" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Edge%20detection/Horizontal%20Edge%20Detection-Cube.jpg">|
-<img width="340" height="340" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Edge%20detection/Sobel%20Edge%20Detection-Cube.jpg">|<img width="340" height="340" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Edge%20detection/Canny%20Edge%20Detection-Cube.jpg">
+<img width="340" height="340" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Edge%20detection/rubix.jpg">|<img width="340" height="340" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Edge%20detection/Vertical%20Edge%20Detection-Cube.jpg">|<img width="340" height="340" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Edge%20detection/Horizontal%20Edge%20Detection-Cube.jpg">|<img width="340" height="340" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Edge%20detection/Sobel%20Edge%20Detection-Cube.jpg">|<img width="340" height="340" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/Edge%20detection/Canny%20Edge%20Detection-Cube.jpg">
   
   ## Task 4  
   Original Image                     |  Erosion                |  Dilation
