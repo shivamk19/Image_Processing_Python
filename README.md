@@ -13,7 +13,7 @@ Recognition of Images and Modifying Images using Python.
   
   * [Task 5](#Task 5) 
   
-  * [Task 6](#Task 6) 
+  * [Task 6](#Task-6) 
 
 ## Task 1 :
 
