@@ -1,37 +1,53 @@
 # Image_Processing_Python
 Recognition of Images and Modifying Images using Python.
-  
-## Task 1
-### 1. Image Rotation
-**Original Input image**  
-  ![**original image**](https://github.com/atharva1608/sra_ip_practice/blob/master/ImageRotation/rotate.png)  
-    
- **Rotating it by 50 degree**  
-  ![**rotated image**](https://github.com/atharva1608/sra_ip_practice/blob/master/ImageRotation/rotationofimageoutput1.png)
-  
-  ## Task 2
-  ### 2. Applying Kernel
-  Blurring and sharpening the image by using kernel(3x3 filters).
-  |<img width="640" height="450" src="https://github.com/atharva1608/sra_ip_practice/blob/master/Applying_Kernels/blur.jpeg">|<img width="640" height="450" src="https://github.com/atharva1608/sra_ip_practice/blob/master/Applying_Kernels/filter.png">|
-|:---:|:---:|
 
-**Output**
-|<img width="350" height="400" src="https://github.com/atharva1608/sra_ip_practice/blob/master/Applying_Kernels/outputblurimage.jpeg">|<img width="350" height="400" src="https://github.com/atharva1608/sra_ip_practice/blob/master/Applying_Kernels/outputblurimage1.jpeg">|<img width="350" height="400" src="https://github.com/atharva1608/sra_ip_practice/blob/master/Applying_Kernels/outputsharpenimage.png">|
-|:---:|:---:|:---:|
-|Gaussian Filter|Box Filter|Sharpen|
+## Task 1- Image Rotation :
 
-  
-  ## Task 3
-  ### 3. Edge Detection
-  1. Vertical Edge Detection is done by using vertical filter(3x3).
-  2. Horizongtal Edge Detction is done by using horizontal filter(3x3),
-  3. Sobel Edge Detection was done by using two filters sobelx and sobely and applying on the given image.
-   **Input Image**
-  ![**input image**](https://github.com/atharva1608/sra_ip_practice/blob/master/Edge_detection/edge-detection.png)
-  
-  **Applying Sobel Edge Detector**
-  ![**output image**](https://github.com/atharva1608/sra_ip_practice/blob/master/Edge_detection/outputedgedetectionsobel.png)
-  4. Canny Edge Detection: It basically consists of five steps- 1) Noise Reduction 2)Gradient Calculation 3)Non-maximum suppression 4)Double Threshold 5)Edge   Tracking Hysteresis
+
+### Rotation Matrix:
+![Rotation Matrix](https://legacy.voteview.com/images/homework_1_1_18_2011.jpg)
+Original image                     |  Result After Rotation(90 degrees)
+:-------------------------:|:-------------------------:
+<img width="640" height="450" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/ImageRotation/rotate.png">|<img width="640" height="450" src="https://github.com/shivamk19/Image_Processing_Python/blob/master/ImageRotation/rotated%2090.png">
+   
+## Task 2 - Applying Kernels :
+
+### Blurring An Image
+Blurring the image with 5x5 kernels. Box-Blur and Gaussian Blur Kernels are used.   
+
+ Original image  | Box Blur  | Gaussian Blur 
+:-----:|:-----:|:-----:
+<img width="240" height="300" src="https://github.com/chaitravi-ce/SRA-Tasks/blob/master/Task-2%20Applying%20Kernels/blur.jpeg">|<img width="240" height="300" src="https://github.com/chaitravi-ce/SRA-Tasks/blob/master/Task-2%20Applying%20Kernels/Box-Blur%20Parliament.jpg">|<img width="240" height="300" src="https://github.com/chaitravi-ce/SRA-Tasks/blob/master/Task-2%20Applying%20Kernels/Gaussian-Blur%20Parliament.jpg">    
+
+ Original image  | Box Blur  | Gaussian Blur 
+:-----:|:-----:|:-----:
+<img width="240" height="300" src="https://github.com/chaitravi-ce/SRA-Tasks/blob/master/Task-2%20Applying%20Kernels/filter.png">|<img width="240" height="300" src="https://github.com/chaitravi-ce/SRA-Tasks/blob/master/Task-2%20Applying%20Kernels/Box-Blur%20Lena.jpg">|<img width="240" height="300" src="https://github.com/chaitravi-ce/SRA-Tasks/blob/master/Task-2%20Applying%20Kernels/Gaussian-Blur%20Lena.jpg"> 
+
+
+ ### Sharpening Image
+ Sharpening the image with 5x5 kernel.
+ Original Image                     |  Sharpened Image
+:-------------------------:|:-------------------------:
+<img width="640" height="450" src="https://github.com/chaitravi-ce/SRA-Tasks/blob/master/Task-2%20Applying%20Kernels/filter.png">|<img width="640" height="450" src="https://github.com/chaitravi-ce/SRA-Tasks/blob/master/Task-2%20Applying%20Kernels/Sharp%20Lena.jpg">
+
+ Original Image                     |  Sharpened Image
+:-------------------------:|:-------------------------:
+<img width="640" height="450" src="https://github.com/chaitravi-ce/SRA-Tasks/blob/master/Task-2%20Applying%20Kernels/blur.jpeg">|<img width="640" height="450" src="https://github.com/chaitravi-ce/SRA-Tasks/blob/master/Task-2%20Applying%20Kernels/Sharp%20Parliament.jpg">
+
+## Task 3 - Edge Detection :
+
+Edge Detection done using 3x3 kernels.
+ Original Image  | Vertical Edge Detection  | Horizontal Edge Detection
+:-----:|:-----:|:-----:
+<img width="340" height="340" src="https://github.com/chaitravi-ce/SRA-Tasks/blob/master/Task-3%20Edge%20Detection/edge-detection.png">|<img width="340" height="340" src="https://github.com/chaitravi-ce/SRA-Tasks/blob/master/Task-3%20Edge%20Detection/Vertical%20Edge%20Detection-Dog.jpg">|<img width="340" height="340" src="https://github.com/chaitravi-ce/SRA-Tasks/blob/master/Task-3%20Edge%20Detection/Horizontal%20Edge%20Detection-Dog.jpg">
+  **Sobel Edge Detection**  | **Canny Edge Detection**
+<img width="340" height="340" src="https://github.com/chaitravi-ce/SRA-Tasks/blob/master/Task-3%20Edge%20Detection/Sobel%20Edge%20Detection-Dog.jpg">|<img width="340" height="340" src="https://github.com/chaitravi-ce/SRA-Tasks/blob/master/Task-3%20Edge%20Detection/Canny%20Edge%20Detection-Dog.jpg">
+
+ Original Image  | Vertical Edge Detection  | Horizontal Edge Detection
+:-----:|:-----:|:-----:
+<img width="340" height="340" src="https://github.com/chaitravi-ce/SRA-Tasks/blob/master/Task-3%20Edge%20Detection/edge-detection2.jpg">|<img width="340" height="340" src="https://github.com/chaitravi-ce/SRA-Tasks/blob/master/Task-3%20Edge%20Detection/Vertical%20Edge%20Detection-Cube.jpg">|<img width="340" height="340" src="https://github.com/chaitravi-ce/SRA-Tasks/blob/master/Task-3%20Edge%20Detection/Horizontal%20Edge%20Detection-Cube.jpg">
+  **Sobel Edge Detection**  | **Canny Edge Detection**
+<img width="340" height="340" src="https://github.com/chaitravi-ce/SRA-Tasks/blob/master/Task-3%20Edge%20Detection/Canny%20Edge%20Detection-Cube.jpg">|<img width="340" height="340" src="https://github.com/chaitravi-ce/SRA-Tasks/blob/master/Task-3%20Edge%20Detection/Sobel%20Edge%20Detection-Cube.jpg">
   
   ## Task 4  
   Original Image                     |  Erosion                |  Dilation
