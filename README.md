@@ -1,20 +1,6 @@
 # Image_Processing_Python
 Recognition of Images and Modifying Images using Python.
 
-## Tables of Contents:
-
-  * [Task 1](#task-1)
-  
-  * [Task 2](#task-2)
-  
-  * [Task 3](#task-3) 
-  
-  * [Task 4](#task-4)
-  
-  * [Task 5](#Task 5) 
-  
-  * [Task 6](#Task-6 :) 
-
 ## Task 1 :
 
 Original image                     |  Result After Rotation(90 degrees)
